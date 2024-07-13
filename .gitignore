@@ -1,0 +1,4 @@
+#Ignore some files and directories
+
+.terraform*
+terraform.*
